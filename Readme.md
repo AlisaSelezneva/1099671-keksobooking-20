@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alisa Selezneva](https://up.htmlacademy.ru/javascript/20/user/1099671).
-* Наставник: `Неизвестно`.
+* Наставник: `Keks`.
 
 ---
 
